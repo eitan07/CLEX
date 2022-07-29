@@ -1,7 +1,7 @@
 # CLEX
 CLI Interactive File Explorer
 
-# STILL ON DEVELOPMENT
+#  - STILL ON DEVELOPMENT - 
 
 
 Goals:
