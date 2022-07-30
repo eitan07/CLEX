@@ -3,6 +3,9 @@ CLI Interactive File Explorer
 
 #  - STILL ON DEVELOPMENT - 
 
+# TODOs:
+- Copy option
+- move option
 
 Goals:
 - Create a menu for some file actions (copy, move, read, delete, etc...) .
